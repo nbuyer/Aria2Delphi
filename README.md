@@ -1,5 +1,5 @@
 # Aria2Delphi
-A very simple aria2 client written in Delphi/Pascal. Free to use but no guarantee.
+A very simple aria2 client written in Delphi/Pascal. Free to use but no guarantee and no documents. Use at your own risk.
 
 Usage:
 ```
