@@ -2,6 +2,7 @@
 A very simple aria2 client written in Delphi/Pascal
 
 Usage:
+```
 var
   // Aria2
   g_sAria2Dir: string = DEF_ARIA2_PATH + PathDelim; // path to store aria2c executable
@@ -20,3 +21,4 @@ var
   g_cAria2Inst.MakeSureRunAria2;
   if g_cAria2Inst.DownloadTorrent(m_sFile, g_sDownloadDir, sSelected, 0, sGID)=0 then ShowMessage('OK');
   ...
+```
